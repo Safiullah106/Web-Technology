@@ -1,0 +1,14 @@
+table {
+    border-collapse: collapse;
+
+
+}
+
+th,
+tr {
+    text-align: left;
+    background-color: rgb(171, 81, 16);
+    padding: 10px;
+
+
+}
